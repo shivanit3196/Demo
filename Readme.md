@@ -23,4 +23,4 @@ message TwitterMessage
     optional string animal_type=2;
     required ANIMAL_INTERPRETATION animal_interpretation=3;
     optional double country=3;
-}heloo  1111
+}heloo
