@@ -27,4 +27,8 @@ message TwitterMessage
 optional string names=1;
  repeated string hitsongs=2;
  }
-Tue Nov 12 15:29:49 IST 2019
+message Twitter {
+ string names=1;
+ repeated string hitsongs=2;
+ }
+Tue Nov 12 15:34:31 IST 2019
