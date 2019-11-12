@@ -23,4 +23,8 @@ message TwitterMessage
     optional string animal_type=2;
     required ANIMAL_INTERPRETATION animal_interpretation=3;
     optional double country=3;
-}Tue Nov 12 15:28:24 IST 2019
+}message Twitter {
+optional string names=1;
+ repeated string hitsongs=2;
+ }
+Tue Nov 12 15:29:49 IST 2019
