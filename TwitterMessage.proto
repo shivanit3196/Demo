@@ -5,5 +5,6 @@ option java_outer_classname = "TwitterMessageClassMain";
 message Twitter {
  string names=1;
  repeated string hitsongs=2;
+  int32 rating=3;
  }
-Tue Nov 12 15:41:19 IST 2019
+Tue Nov 12 15:45:18 IST 2019
