@@ -1,0 +1,28 @@
+syntax = 'proto3';
+package com.practice;
+
+option java_outer_classname = "TwitterJsonMessage";
+message Twitter {
+ string account_id=1;
+  string created_at=2;
+  string currency=3;
+  int64 daily_budget_amount_local_micro=4;
+  bool deleted=5;
+  string duration_in_days=6;
+  string end_time=7;
+  string entity_status=8;
+  string extra_field=9;
+  string frequency_cap=10;
+  string funding_instrument_id=11;
+  string id=12;
+  string name=13;
+  string purchase_order_number=14;
+ repeated string reasons_not_servable=15;
+  bool servable=16;
+  string snap_time=17;
+  bool standard_delivery=18;
+  string start_time=19;
+  int64 total_budget_amount_local_micro=20;
+  string updated_at=21;
+ }
+Thu Nov 14 11:07:34 IST 2019
