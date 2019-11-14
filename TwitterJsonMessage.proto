@@ -12,17 +12,18 @@ message Twitter {
   string end_time=7;
   string entity_status=8;
   string extra_field=9;
-  string frequency_cap=10;
-  string funding_instrument_id=11;
-  string id=12;
-  string name=13;
-  string purchase_order_number=14;
- repeated string reasons_not_servable=15;
-  bool servable=16;
-  string snap_time=17;
-  bool standard_delivery=18;
-  string start_time=19;
-  int64 total_budget_amount_local_micro=20;
-  string updated_at=21;
+  string extra_field2=10;
+  string frequency_cap=11;
+  string funding_instrument_id=12;
+  string id=13;
+  string name=14;
+  string purchase_order_number=15;
+ repeated string reasons_not_servable=16;
+  bool servable=17;
+  string snap_time=18;
+  bool standard_delivery=19;
+  string start_time=20;
+  int64 total_budget_amount_local_micro=21;
+  string updated_at=22;
  }
-Thu Nov 14 11:07:34 IST 2019
+Thu Nov 14 11:33:32 IST 2019
