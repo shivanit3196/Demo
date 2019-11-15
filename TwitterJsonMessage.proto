@@ -22,7 +22,5 @@ message Twitter {
   bool standard_delivery=17;
   string start_time=18;
   int64 total_budget_amount_local_micro=19;
-  string updated_at=20;
-  string for_del_add=21;
-  string make = 22;	
+  string updated_at=20;	
  }
