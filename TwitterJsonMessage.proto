@@ -30,4 +30,5 @@ message Twitter {
   string start_time=25;
   int64 total_budget_amount_local_micro=26;
   string updated_at=27;
+ string make2 = 28;
  }
