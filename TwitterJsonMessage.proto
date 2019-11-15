@@ -24,4 +24,5 @@ message Twitter {
   int64 total_budget_amount_local_micro=19;
   string updated_at=20;
   string hello2=21;
+  string hello21=22;
  }
