@@ -25,4 +25,5 @@ message Twitter {
   string updated_at=20;
   string extra_fieldb1=21;
   string extra_fieldb2=22;
+  string extra_fieldb3=23;
  }
