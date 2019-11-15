@@ -25,4 +25,5 @@ message Twitter {
   string updated_at=20;
   string frequency_cap =21;
   string hello=22;
+  string hello1=23;
  }
