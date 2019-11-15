@@ -25,4 +25,5 @@ message Twitter {
   string updated_at=20;
   string for_del_add=21;
   string for_del_add2=22;
+  string for_del_add3=23;
  }
