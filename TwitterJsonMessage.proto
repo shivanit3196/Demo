@@ -23,6 +23,7 @@ message Twitter {
   string start_time=18;
   int64 total_budget_amount_local_micro=19;
   string updated_at=20;
+<<<<<<< HEAD
   string for_del_add=21;
   string for_del_add2=22;
   string for_del_add3=23;
@@ -30,4 +31,9 @@ message Twitter {
   string for_del_add5=25;
   string for_del_add6=26;
   string for_del_add7=27;
+=======
+  string extra_fieldb1=21;
+  string extra_fieldb2=22;
+  string extra_fieldb3=23;
+>>>>>>> branch 'master' of https://github.com/shivanit3196/Demo.git
  }
